@@ -84,7 +84,6 @@
 >git pull
 
 
-
 Чтобы авторизоваться:
 > ssh-keygen -t rsa -b 4096 -c "dimakim2001@mail.ru"
 
